@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botirkhoja&label=Profile%20views&color=0e75b6&style=flat" alt="botirkhoja" /> </p>
-
+<img src="https://camo.githubusercontent.com/3ba885186cb86443d38f345bdac5601c01a399bb2b3ef2256e7f0fb29c8bf308/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f72656163746a732d6672616d65776f726b2e676966">
 - 🔭 I’m currently studying on **IT Academy**
 
 - 🌱 I’m currently learning **React**
