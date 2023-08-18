@@ -1,5 +1,11 @@
 # 💫 About Me:
-                                                      Hi, I'm Yunus<br><br>🔭 I’m currently studying on IT Academy<br>🤝 I'm looking to collaborate on Front-end<br>🙌 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
+                                                      Hi, I'm Yunus<br><br>
+🔭 I’m currently studying on IT Academy<br>
+🤝 I'm looking to collaborate on Front-end<br>
+🙌 I’m looking for help with React<br>
+🌱 I’m currently learning React<br>
+💬 Ask me about Front-end<br>
+⚡ Fun fact I'm Really Funny
 
 
 ## 🌐 Socials:
