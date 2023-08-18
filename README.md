@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on IT Academy<br> I'm looking to collaborate on Front-end<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
+                                                      Hi, I'm Yunus<br><br>🔭 I’m currently studying on IT Academy<br>🤝 I'm looking to collaborate on Front-end<br>🙌 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Botirkhoja&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Botirkhoja&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Botirkhoja&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Botirkhoja&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Botirkhoja&limit=5&theme=nord&combine_all_yearly_contributions=true)
